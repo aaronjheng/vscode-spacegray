@@ -1,0 +1,29 @@
+{
+  "name": "spacegray",
+  "displayName": "Spacegray",
+  "description": "Spacegray Ocean Dark theme for Visual Studio Code",
+  "version": "0.2.0",
+  "license": "MIT",
+  "preview": true,
+  "publisher": "aaronjheng",
+  "icon": "assets/spacegray.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronjheng/vscode-spacegray"
+  },
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spacegray Ocean Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/spacegray-ocean-dark.json"
+      }
+    ]
+  }
+}
