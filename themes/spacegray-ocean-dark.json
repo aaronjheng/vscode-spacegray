@@ -248,7 +248,6 @@
 			"scope": "meta.separator",
 			"settings": {
 				"foreground": "#C0C5CE",
-				"background": "#4F5B66"
 			}
 		},
 		{
@@ -309,7 +308,6 @@
 			"scope": "invalid.illegal",
 			"settings": {
 				"foreground": "#FFFFFF",
-				"background": "#BF616A"
 			}
 		},
 		{
