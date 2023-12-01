@@ -25,8 +25,5 @@
         "path": "./themes/spacegray-ocean-dark.json"
       }
     ]
-  },
-  "devDependencies": {
-    "vsce": "^2.11.0"
   }
 }
